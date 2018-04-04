@@ -1,7 +1,7 @@
 # hello-world
 Test 
 
-I'm Vee of Earth. I'll give a paragraph or two about my experience with coding from the beginning. The very first encounter I had with code was in the early days of Myspace. You could alter profiles with HTML, and so I learned how to <b> and <br> doing that. The first language proper that I learned was C++ in high school. I never used it again, as I just couldn't stand it for reasons I still don't understand. It turned me off to coding for years.
+I'm Vee of Earth. I'll give a paragraph or two about my experience with coding from the beginning. The very first encounter I had with code was in the early days of Myspace. You could alter profiles with HTML, and so I learned how to <b> and <br> doing that.</b> The first language proper that I learned was C++ in high school. I never used it again, as I just couldn't stand it for reasons I still don't understand. It turned me off to coding for years.
 
 Later though, in my early 20's, the advent of creations like the Pi and Arduino brought me back around. I then learned Python to an intermediate level, just for the recreation. Still, all I learned felt forced, and I didn't believe myself capable of creating something new, or unique, or useful. Another thing I was interested in at the time, was reading the speeches given by JFK during his presidency, and the site that housed all the original PDF scans had a terrible system for accessing and saving each one. This was my Eureka moment, when the learning I had done paid off. A problem arose from a completely organic situation, and I had the capability to solve it through code - or, at least I hoped could do it.
 
